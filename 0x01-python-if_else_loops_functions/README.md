@@ -1,1 +1,1 @@
-print the last digit of the number stored in the variable number
+Write a program that prints the ASCII alphabet, in lowercase
