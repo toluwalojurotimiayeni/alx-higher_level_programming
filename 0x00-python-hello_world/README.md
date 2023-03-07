@@ -1,1 +1,1 @@
-copy, cut, paste
+print object-oriented programming with Python
