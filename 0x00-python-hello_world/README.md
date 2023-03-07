@@ -1,1 +1,1 @@
-print the integer stored in the variable number, followed by Battery street
+print the float stored in the variable number with a precision of 2 digits
