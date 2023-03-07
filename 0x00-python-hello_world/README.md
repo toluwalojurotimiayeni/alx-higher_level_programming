@@ -1,1 +1,1 @@
-Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19
+Write a script that compiles a Python script file, the Python file name will be stored in the environment variable $PYFILE
