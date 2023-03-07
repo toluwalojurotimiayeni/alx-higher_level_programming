@@ -1,1 +1,1 @@
-Write a script that compiles a Python script file, the Python file name will be stored in the environment variable $PYFILE
+Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode
