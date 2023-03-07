@@ -1,1 +1,1 @@
-print Welcome to Holberton School!
+copy, cut, paste
