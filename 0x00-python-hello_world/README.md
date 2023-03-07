@@ -1,1 +1,1 @@
-print the float stored in the variable number with a precision of 2 digits
+print 3 times a string stored in the variable str
