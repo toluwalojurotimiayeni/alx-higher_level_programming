@@ -1,1 +1,1 @@
-Write a function that prints all integers of a list, in reverse order
+Create a C function that prints some basic info about Python lists
