@@ -1,1 +1,1 @@
-Write a program that prints the result of the addition of all argumente
+Write a program that prints the alphabet in uppercase
