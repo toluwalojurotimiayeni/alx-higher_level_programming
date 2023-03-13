@@ -1,1 +1,1 @@
-Write a program that prints the alphabet in uppercase
+Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode
