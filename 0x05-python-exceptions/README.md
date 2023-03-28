@@ -1,1 +1,1 @@
-Write a function that prints an integer.
+Write a function that executes a function safely
