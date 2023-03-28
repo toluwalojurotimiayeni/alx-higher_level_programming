@@ -1,1 +1,1 @@
-Write a function that divides element by element 2 lists.
+Write a function that raises a type exception
