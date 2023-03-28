@@ -1,1 +1,1 @@
-Write a function that raises a name exception with a message
+Write a function that prints an integer.
