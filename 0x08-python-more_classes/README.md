@@ -1,1 +1,1 @@
-Write a class Rectangle that defines a rectangle by: (based on 7-rectangle.py)
+Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py)
