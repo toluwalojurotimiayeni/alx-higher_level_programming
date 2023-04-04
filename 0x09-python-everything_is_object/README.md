@@ -1,1 +1,1 @@
-After the execution of line 4, is the int object pointed by b deleted
+How many int objects are created by the execution of the last line of the script
