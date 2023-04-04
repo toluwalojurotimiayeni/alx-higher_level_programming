@@ -1,1 +1,1 @@
-How many int objects are created by the execution of the second line of the script
+After the execution of line 3, is the int object pointed by a deleted
