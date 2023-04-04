@@ -1,1 +1,1 @@
-Write a function magic_string() that returns a string “BestSchool” n times the number of the iteration (see code)
+Write a class LockedClass with no class or object attribute, that prevents the user from dynamically creating new instance attributes, except if the new instance attribute is called first_name
