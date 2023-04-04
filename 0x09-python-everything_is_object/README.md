@@ -1,1 +1,1 @@
-How many string objects are created by the execution of the first line of the script
+How many string objects are created by the execution of the second line of the script
