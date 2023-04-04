@@ -1,1 +1,1 @@
-After the execution of line 4, is the string object pointed by b deleted
+How many string objects are created by the execution of the last line of the script
