@@ -1,1 +1,1 @@
-Assuming we are using a CPython implementation of Python3 with default options/configuration
+How many int objects are created by the execution of the first line of the script
