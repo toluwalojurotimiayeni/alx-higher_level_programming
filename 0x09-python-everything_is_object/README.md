@@ -1,1 +1,1 @@
-Is a a tuple
+What does this script print
