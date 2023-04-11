@@ -1,1 +1,1 @@
-Write a class Square that inherits from Rectangle (9-rectangle.py)
+Write a class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py)
