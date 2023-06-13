@@ -1,1 +1,1 @@
-Update this script by adding a new function incr that increments the integer value
+Write a script that prints JavaScript is amazing
