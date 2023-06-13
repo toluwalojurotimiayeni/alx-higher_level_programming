@@ -1,1 +1,1 @@
-Update this script to replace the value 12 with 89
+Write a function that returns the addition of 2 integers
