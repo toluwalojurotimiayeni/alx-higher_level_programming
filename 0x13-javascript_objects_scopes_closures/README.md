@@ -1,1 +1,1 @@
-Write a function that prints the number of arguments already printed and the new argument value
+Write a function that converts a number from base 10 to another base passed as argument
