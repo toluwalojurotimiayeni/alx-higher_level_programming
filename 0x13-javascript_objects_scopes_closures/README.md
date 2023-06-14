@@ -1,1 +1,1 @@
-Write a function that returns the reversed version of a list
+Write a function that prints the number of arguments already printed and the new argument value
